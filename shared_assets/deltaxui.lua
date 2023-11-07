@@ -103,7 +103,7 @@ DELTA["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 DELTA["1"]["ResetOnSpawn"] = false;
 DELTA["1"]["DisplayOrder"] = 10;
 DELTA["1"].Enabled = false
-
+print'hello nigga'
 -- Dis is for floating icon Players
 DELTA["Ui"] = Instance.new("ScreenGui", gethui())
 DELTA["Ui"].Enabled = false
