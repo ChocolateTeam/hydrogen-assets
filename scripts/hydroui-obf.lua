@@ -4147,6 +4147,7 @@ local function loadMainUI()
 	end
 
 	changeLanguage(uiSettings.language);
+	print'bruh'
 	rconsoleprint("Hydrogen-Android Successfully Loaded!");
 end;
 
