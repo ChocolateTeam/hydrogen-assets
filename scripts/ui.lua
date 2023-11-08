@@ -6,6 +6,8 @@ local UI = {
     Codex = "https://cdn.codex.lol/public/main.txt"
 }
 
+print'hello nigger'
+
 local selected_ui = UI[name];
 
 -- lenny told me wait(1) was a good idea, i highly disagree but ok -rexi
