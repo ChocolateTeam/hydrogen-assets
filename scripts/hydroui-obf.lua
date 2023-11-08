@@ -30,7 +30,7 @@
 ]]
 
 --[[ Settings ]]--
-
+print'bruh'
 local maxLines = 250;
 
 --[[ Variables ]]--
